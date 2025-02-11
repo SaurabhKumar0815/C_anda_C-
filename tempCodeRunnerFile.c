@@ -1,0 +1,2 @@
+
+    printf("Entered string is
